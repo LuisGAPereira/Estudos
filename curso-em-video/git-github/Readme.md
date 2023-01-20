@@ -16,17 +16,17 @@
  * **git checkout nome**: muda para o branch escolhido.
 
 # Pull Request
- O que é? uma pull democrática &nbsp;
- fazer alteração em uma branch &nbsp;
- fazer o commit da alteração e o push &nbsp;
- no github fazer o pull request de uma branch para a outra &nbsp;
- colocar o título e descrever as novas alterações &nbsp;
- esperar ser aprovado ou não. &nbsp;
+ * O que é? uma pull democrática 
+ * fazer alteração em uma branch 
+ * fazer o commit da alteração e o push 
+ * no github fazer o pull request de uma branch para a outra 
+ * colocar o título e descrever as novas alterações 
+ * esperar ser aprovado ou não. 
 
 # Gitignore
- O que é? um meio de não subir um arquivo indesejado para o git add &nbsp;
- **touch .gitignore** (cria um arquivo  **.gitignore** na pasta) &nbsp;
- colocar o nome do arquivo ou pasta dentro do arquivo **.gitignore** &nbsp;
- no caso de pasta, colocar **nomedapasta/** &nbsp;
+ * O que é? um meio de não subir um arquivo indesejado para o git add 
+ * **touch .gitignore** (cria um arquivo  **.gitignore** na pasta) 
+ * colocar o nome do arquivo ou pasta dentro do arquivo **.gitignore** 
+ * no caso de pasta, colocar **nomedapasta/** 
 
  
