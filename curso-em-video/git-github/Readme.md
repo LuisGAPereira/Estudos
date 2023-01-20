@@ -17,11 +17,17 @@
 
 # Pull Request
  O que é? uma pull democrática
+ &nbsp;
  fazer alteração em uma branch
+ &nbsp;
  fazer o commit da alteração e o push
+ &nbsp;
  no github fazer o pull request de uma branch para a outra
+ &nbsp;
  colocar o título e descrever as novas alterações
+ &nbsp;
  esperar ser aprovado ou não.
+ &nbsp;
 
 # Gitignore
  O que é? um meio de não subir um arquivo indesejado para o git add
