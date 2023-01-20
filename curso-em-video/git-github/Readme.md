@@ -10,6 +10,7 @@
  * **git pull**: traz as alterações de um repositório remoto para o local para manter o código atualizado(git fetch + git merge);
  * **git push**: leva as alterações de um repositório local para o remoto;
  * **git reflog**: verifica o histórico de atualizações e fornece o id;
+ * **git reset --hard id**: navega entre as versões utilizando o id (cuidado);
  * **git branch**: mostra quais branches estão disponíveis;
  * **git branch** nome: adiciona um branch com o nome escolhido;
  * **git checkou -b nome main** : adiciona um branch com o nome escolhido baseado, nesse caso, na main, e já muda pra ela;
