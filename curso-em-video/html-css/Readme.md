@@ -26,7 +26,7 @@
 
 # Listas ordenadas e não-ordenadas
 * &lt;ul&gt;&lt;/ul&gt;: unordered list (type = circle, square, disc)
-* &lt;li&gt;&lt;/li&gt;: list item (colocar dentro de uma <ul> ou <ol>)
+* &lt;li&gt;&lt;/li&gt;: list item (colocar dentro de uma &lt;ul&gt; ou &lt;ol&gt;)
 * &lt;ol&gt;&lt;/ol&gt;: ordered list (type= 1, A, a, I, i)
 
 # Imagens e emojis
