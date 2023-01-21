@@ -1,34 +1,34 @@
 # HTML e CSS
 
 # Estrutura de uma página web
-* <doctype>: tipo de documento
-* <doctype html>: tipo de documento html:5
-* <html></html>: código html
-* <head></head>: cabeçalho
-* <title></title>: título da  página
-* <meta charset="utf-8">: tipo de codificação (permite acentos)
-* <meta name="viewport" content="width=device-width, initial-scale=1.0"> = site ocupa 100% da tela disponível
-* <body></body>: corpo/conteúdo
+* &lt;doctype&gt;: tipo de documento
+* &lt;doctype html&gt;: tipo de documento html:5
+* &lt;html&gt;&lt;/html&gt;: código html
+* &lt;head&gt;&lt;/head&gt;: cabeçalho
+* &lt;title&gt;&lt;/title&gt;: título da  página
+* &lt;meta charset="utf-8"&gt;: tipo de codificação (permite acentos)
+* &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt; = site ocupa 100% da tela disponível
+* &lt;body&gt;&lt;/body&gt;: corpo/conteúdo
 
 # Título (body)
-* <h1> até <h6>: título 
-* <br>: quebra de linha
+* &lt;h1&gt; até &lt;h6&gt;: título 
+* &lt;br&gt;: quebra de linha
 
 # Parágrafo
-* <p></p>: parágrafo
-* <hr>: linha horizontal (separar)
+* &lt;p&gt;&lt;/p&gt;: parágrafo
+* &lt;hr&gt;: linha horizontal (separar)
 
 # Formatação de texto
-* <strong></strong>: negrito
-* <em></em>: itálico
-* <u></u>: underline
-* <strike></strike>: errado
+* &lt;strong&gt;&lt;/strong&gt;: negrito
+* &lt;em&gt;&lt;/em&gt;: itálico
+* &lt;u&gt;&lt;/u&gt;: underline
+* &lt;strike&gt;&lt;/strike&gt;: errado
 
 # Listas ordenadas e não-ordenadas
-* <ul></ul>: unordered list (type = circle, square, disc)
-* <li></li>: list item (colocar dentro de uma <ul> ou <ol>)
-* <ol></ol>: ordered list (type= 1, A, a, I, i)
+* &lt;ul&gt;&lt;/ul&gt;: unordered list (type = circle, square, disc)
+* &lt;li&gt;&lt;/li&gt;: list item (colocar dentro de uma <ul> ou <ol>)
+* &lt;ol&gt;&lt;/ol&gt;: ordered list (type= 1, A, a, I, i)
 
 # Imagens e emojis
-* <img src="url" alt="descrição">: permite adicionar uma imagem (width="valor" ou height="valor" para escolher tamanho)
+* &lt;img src="url" alt="descrição"&gt;: permite adicionar uma imagem (width="valor" ou height="valor" para escolher tamanho)
 * &código; :  & + códigos + ; = permite vários emojis, símbolos, etc
