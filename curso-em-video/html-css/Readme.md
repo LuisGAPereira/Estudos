@@ -29,11 +29,17 @@
 * &lt;small&gt;&lt;/small&gt;: letra pequena
 * &lt;sup&gt;&lt;/sup&gt;: sobrescrito (x<sup>2</sup>)
 * &lt;sub&gt;&lt;/sub&gt;: subescrito (H<sub>2</sub>O)
+* &lt;code&gt;&lt;/code&gt;: fonte monoespaçada (boa pra ler códigos)
+* &lt;pre&gt;&lt;/pre&gt;: inclui os espaçamentos
+* &lt;q&gt;&lt;/q&gt;: citação simples com aspas
+* &lt;blockquote&gt;&lt;/blockquote&gt;: citação completa em um bloco deslocado
+* &lt;abbr title="descrição"&gt;&lt;/abbr&gt;: abreviações
 
-# Listas ordenadas e não-ordenadas
+# Listas ordenadas e não ordenadas
 * &lt;ul&gt;&lt;/ul&gt;: unordered list (type = circle, square, disc)
 * &lt;li&gt;&lt;/li&gt;: list item (colocar dentro de uma &lt;ul&gt; ou &lt;ol&gt;)
 * &lt;ol&gt;&lt;/ol&gt;: ordered list (type= 1, A, a, I, i)
+* li*número: ao dar enter, cria o número de &lt;li&gt; escolhido
 
 # Imagens, emojis e favicons
 * &lt;img src="url" alt="descrição"&gt;: permite adicionar uma imagem (width="valor" ou height="valor" para escolher tamanho)
