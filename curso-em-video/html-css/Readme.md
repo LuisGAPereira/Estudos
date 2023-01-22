@@ -22,7 +22,7 @@
 * &lt;strong&gt;&lt;/strong&gt;: negrito
 * &lt;em&gt;&lt;/em&gt;: itálico
 * &lt;u&gt;&lt;/u&gt;: underline
-* &lt;strike&gt;&lt;/strike&gt;: errado
+* &lt;s&gt;&lt;/s&gt;: errado
 
 # Listas ordenadas e não-ordenadas
 * &lt;ul&gt;&lt;/ul&gt;: unordered list (type = circle, square, disc)
