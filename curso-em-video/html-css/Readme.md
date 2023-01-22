@@ -29,6 +29,7 @@
 * &lt;li&gt;&lt;/li&gt;: list item (colocar dentro de uma &lt;ul&gt; ou &lt;ol&gt;)
 * &lt;ol&gt;&lt;/ol&gt;: ordered list (type= 1, A, a, I, i)
 
-# Imagens e emojis
+# Imagens, emojis e favicons
 * &lt;img src="url" alt="descrição"&gt;: permite adicionar uma imagem (width="valor" ou height="valor" para escolher tamanho)
 * &código; :  & + códigos + ; = permite vários emojis, símbolos, etc
+* &lt;link rel="icon(exemplo)" href="icone(exemplo)"&gt;: permite adicionar favicon no head da página.
