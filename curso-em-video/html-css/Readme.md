@@ -1,5 +1,7 @@
 # HTML e CSS
 
+# HTML
+
 # Estrutura de uma página web
 * &lt;doctype&gt;: tipo de documento
 * &lt;doctype html&gt;: tipo de documento html:5
@@ -21,8 +23,12 @@
 # Formatação de texto
 * &lt;strong&gt;&lt;/strong&gt;: negrito
 * &lt;em&gt;&lt;/em&gt;: itálico
-* &lt;u&gt;&lt;/u&gt;: underline
-* &lt;s&gt;&lt;/s&gt;: errado
+* &lt;ins&gt;&lt;/ins&gt;: underline
+* &lt;del&gt;&lt;/del&gt;: errado
+* &lt;mark&gt;&lt;/mark&gt;: marca-texto
+* &lt;small&gt;&lt;/small&gt;: letra pequena
+* &lt;sup&gt;&lt;/sup&gt;: sobrescrito (x<sup>2</sup>)
+* &lt;sub&gt;&lt;/sub&gt;: subescrito (H<sub>2</sub>O)
 
 # Listas ordenadas e não-ordenadas
 * &lt;ul&gt;&lt;/ul&gt;: unordered list (type = circle, square, disc)
